@@ -6,8 +6,8 @@ To develop the Online Ticket Reservation System using Star UML tool.
 Use Case Diagram Class Diagram Activity Diagram Package Diagram Communication Diagram Sequence Diagram
 # DIAGRAMS:
 ```
-Program Developed by: A.RANEN JOSEPH SOLOMON
-Register no: 212224040269
+Program Developed by: Abishai K C
+Register no: 212223240002
 ```
 **USECASE DIAGRAM**
 
